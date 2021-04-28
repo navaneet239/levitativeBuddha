@@ -100,7 +100,7 @@ function setup() {
   
     
   hold = createSprite(width/2, 60,width,10);
-  hold.shapeColor = "white";
+  hold.shapeColor = "red";
 
   coinGroup = createGroup();
 
